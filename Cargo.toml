@@ -1,0 +1,6 @@
+[package]
+name = "decypher"
+version = "0.1.0"
+authors = ["Bryan Yap <bryan.yap@alliants.com>"]
+
+[dependencies]
